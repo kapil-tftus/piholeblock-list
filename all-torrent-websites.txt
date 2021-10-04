@@ -4949,7 +4949,8 @@ thepiratebay.radio.fm
 ProxyBay.uk
 TPBlist.info
 TorrentProxy.io
-
+tpb.red
+piratebay.fit
 www.pirateproxy-bay.com
 www.tpbproxypirate.com
 www.tpbaysproxy.com
